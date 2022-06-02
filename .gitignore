@@ -1,0 +1,5 @@
+*.o
+*.gc*
+libmy.a
+.vscode
+navy
