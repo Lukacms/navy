@@ -1,4 +1,4 @@
-# B-PSU-101-BDX-1-1-navy-chloe.camus
+# PSU-navy
 
 # Description:
 This is a 1st year Epitech project which consist in discovering and using signals to make a battleship between two terminals. <br>
